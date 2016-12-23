@@ -1,0 +1,43 @@
+/*** Tag Selectors ***/
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #000000;
+  background-color: #F9F7EB;
+}
+
+/*** Class Selectors ***/
+
+.top-buffer { margin-top: 30px;
+  }
+
+/*** ID Selectors ***/
+
+#Redrooffs {
+    margin-bottom: 10%;
+  
+  }
+
+
+#emailme {
+  margin-bottom: 10%;
+ 
+    }
+
+#email:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+#photos:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+#lookatmyphotos {
+
+   margin-bottom: 10%;
+}
+
+#name { margin-bottom: 10%;
+
+}
